@@ -15,16 +15,3 @@ while name != "Welcome!":
         print(f"{name} goes to Ravenclaw.")
     else:
         print(f"{name} goes to Hufflepuff.")
-
-#Galin
-#Galin goes to Slytherin.
-#Petia
-#Petia goes to Slytherin.
-#Deni
-#Deni goes to Gryffindor.
-#Ani
-#Ani goes to Gryffindor.
-#Anastasia
-#Anastasia goes to Hufflepuff.
-#Welcome
-#Welcome goes to Hufflepuff.
